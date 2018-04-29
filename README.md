@@ -1,2 +1,2 @@
 # Webscraping
-Miscellaneous codes to scraping webpages
+Miscellaneous codes for web scraping 
